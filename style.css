@@ -278,7 +278,7 @@
 .charms {
     font-size: 14.5px;
 }
-@media (min-width: 576px) {
+@media (min-width: 576px) and (max-width: 767px) {
 	font-size: 10px;
 	font-family: 'Muli', sans-serif;
         color: white
@@ -286,7 +286,7 @@
 		width: 25px;
 		height: 25px;
 }
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 991px) {
 	font-size: 15px;
         font-family: 'Muli', sans-serif;
         color: white
@@ -294,7 +294,7 @@
 		width: 30px;
 		height: 30px;
 }
-@media (min-width: 992px) {
+@media (min-width: 992px) and (max-width: 1199px) {
 	font-size: 20px;
 	font-family: 'Muli', sans-serif;
         color: white
