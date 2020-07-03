@@ -1,2 +1,2 @@
-# core-health
+# Core Health
 Assessing your health, taken to another level.
