@@ -289,6 +289,22 @@
 		height: 25px;
 	}
 	height: 400vh
+	.one {
+		font-size: 10px;
+	}
+	.two {
+		font-size: 10px;
+	}
+	.three {
+		font-size: 10px;
+	}
+	.four {
+		font-size: 10px;
+	}
+	.five {
+		font-size: 10px;
+	}
+	
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.web-text h1 {
@@ -312,6 +328,22 @@
 		height: 35px;
 	}
 	height: 200vh;
+	.one {
+		font-size: 15px;
+	}
+	.two {
+		font-size: 15px;
+	}
+	.three {
+		font-size: 15px;
+	}
+	.four {
+		font-size: 15px;
+	}
+	.five {
+		font-size: 15px;
+	}
+	
 }
 @media (min-width: 1200px) {
 	.web-text h1 {
