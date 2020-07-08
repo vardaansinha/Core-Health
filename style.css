@@ -292,7 +292,7 @@
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	.web-text h1 {
-	    font-size: 25px;
+	    font-size: 60px;
             font-family: 'Muli', sans-serif;
             color: white
 	}
@@ -303,7 +303,7 @@
 }
 @media (min-width: 992px) and (max-width: 1199px) {
 	.web-text h1 {
-	    font-size: 35px;
+	    font-size: 70px;
 	    font-family: 'Muli', sans-serif;
             color: white
 	 }
@@ -315,7 +315,7 @@
 }
 @media (min-width: 1200px) {
 	.web-text h1 {
-	    font-size: 25px;
+	    font-size: 80px;
 	    font-family: 'Muli', sans-serif;
             color: white
 	}
